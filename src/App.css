@@ -1,3 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #af2323;
+  color: #bcd2f5;
+}
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +46,5 @@
     transform: rotate(360deg);
   }
 }
+
+
